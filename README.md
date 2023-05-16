@@ -7,6 +7,10 @@ https://img.shields.io/badge/ShinyApps-blue?style=flat&labelColor=white&logo=RSt
 
 [Code]()
 
+![Brazil_Temp](
+https://github.com/danvargg/brasil-climate/blob/main/images/brazil_temp.PNG
+)
+
 TI have a dataset with measurements of temperature and precipitation for 655 cities in Brazil, under both present and future climate.
 
 I am looking for an experienced R/Shiny developer to create a Shiny app that provides a dynamic way to visualize this data.
