@@ -1,0 +1,241 @@
+Serra Talhada, PE
+Valença, BA
+Viçosa, MG
+Tupã, SP
+Ji-Paraná, RO
+Vilhena, RO
+Porto Velho, RO
+Telêmaco Borba, PR
+Nova Lima, MG
+Tobias Barreto, SE
+Santo Estêvão, BA
+Ji-Paraná, RO
+Conselheiro Lafaiete, MG
+Tatuí, SP
+Leopoldina, MG
+Ouro Preto, MG
+Suzano, SP
+Ji-Paraná, RO
+Porto Velho, RO
+Rolim De Moura, RO
+Vilhena, RO
+Ji-Paraná, RO
+Conceição Do Coité, BA
+Volta Redonda, RJ
+Sumaré, SP
+Pesqueira, PE
+Rolim De Moura, RO
+Porto Velho, RO
+Rio Claro, SP
+Jaú, SP
+Ribeirão Preto, SP
+Porto Velho, RO
+Porto Velho, RO
+São José Dos Campos, SP
+Simões Filho, BA
+São João Da Boa Vista, SP
+Goiana, PE
+Piracicaba, SP
+Ji-Paraná, RO
+São Carlos, SP
+Rolim De Moura, RO
+Vilhena, RO
+Bragança Paulista, SP
+Mogi Mirim, SP
+Campos Do Jordão, SP
+São Bento Do Sul, SC
+Ji-Paraná, RO
+Tatuí, SP
+Ji-Paraná, RO
+Ji-Paraná, RO
+Piracicaba, SP
+Rio Bonito, RJ
+Volta Redonda, RJ
+Valença, RJ
+Vitória De Santo Antão, PE
+Itajubá, MG
+Petrópolis, RJ
+Caruaru, PE
+Rolim De Moura, RO
+Juiz De Fora, MG
+Mogi Mirim, SP
+Votorantim, SP
+Ji-Paraná, RO
+Rio Claro, SP
+Araraquara, SP
+Mococa, SP
+Mairiporã, SP
+Pouso Alegre, MG
+Mococa, SP
+Rio Claro, SP
+Tatuí, SP
+Valinhos, SP
+Bragança Paulista, SP
+São José Do Rio Pardo, SP
+Garanhuns, PE
+Angra Dos Reis, RJ
+Taubaté, SP
+Vitória De Santo Antão, PE
+Pindamonhangaba, SP
+Garanhuns, PE
+Matão, SP
+Itatiba, SP
+Barbacena, MG
+Várzea Paulista, SP
+Vinhedo, SP
+Palmares, PE
+Três Corações, MG
+Garanhuns, PE
+Rolim De Moura, RO
+Suzano, SP
+Itapeva, SP
+Volta Redonda, RJ
+Pouso Alegre, MG
+São Sebastião, SP
+Taquaritinga, SP
+Vinhedo, SP
+Votorantim, SP
+Jequié, BA
+Sertãozinho, SP
+Vitória De Santo Antão, PE
+São Cristóvão, SE
+Itajubá, MG
+Pinhais, PR
+Três Rios, RJ
+Itajubá, MG
+Suzano, SP
+Três Corações, MG
+São Carlos, SP
+Jaú, SP
+Sumaré, SP
+Campina Grande, PB
+Valinhos, SP
+Jataí, GO
+Poços De Caldas, MG
+Vinhedo, SP
+Surubim, PE
+São Gonçalo Do Amarante, RN
+Vilhena, RO
+São José Do Rio Pardo, SP
+Piracicaba, SP
+Vitória, ES
+Imperatriz, MA
+Jaru, RO
+Itajubá, MG
+Ipirá, BA
+Novo Hamburgo, RS
+Vinhedo, SP
+Vitória, ES
+Volta Redonda, RJ
+Tatuí, SP
+Bragança Paulista, SP
+Leopoldina, MG
+Ubatuba, SP
+Joinville, SC
+Parauapebas, PA
+Votorantim, SP
+São Gonçalo, RJ
+São Lourenço Da Mata, PE
+Tatuí, SP
+Juiz De Fora, MG
+Caruaru, PE
+Açailândia, MA
+Vinhedo, SP
+Suzano, SP
+Sumaré, SP
+Itajaí, SC
+Pouso Alegre, MG
+Patrocínio, MG
+Itatiba, SP
+São Gonçalo, RJ
+Bragança Paulista, SP
+Muriaé, MG
+Santo Antônio De Jesus, BA
+São Bento Do Sul, SC
+Guaratinguetá, SP
+Campina Grande, PB
+Montenegro, RS
+Luziânia, GO
+São José Do Rio Pardo, SP
+São João De Meriti, RJ
+Mogi Guaçu, SP
+Mogi Mirim, SP
+Santo Estêvão, BA
+Pouso Alegre, MG
+Volta Redonda, RJ
+Mogi Mirim, SP
+Volta Redonda, RJ
+Mogi Mirim, SP
+Volta Redonda, RJ
+Mococa, SP
+Resende, RJ
+Araraquara, SP
+Juiz De Fora, MG
+São Bento Do Una, PE
+São João Da Boa Vista, SP
+Bauru, SP
+Pouso Alegre, MG
+Araci, BA
+Lavras, MG
+União Dos Palmares, AL
+Jaú, SP
+Leopoldina, MG
+Piracicaba, SP
+São João Da Boa Vista, SP
+Palmeira Dos Índios, AL
+Ubatuba, SP
+Vitória De Santo Antão, PE
+Leopoldina, MG
+São Bernardo Do Campo, SP
+São João Da Boa Vista, SP
+Campina Grande, PB
+Taubaté, SP
+Buíque, PE
+Sumaré, SP
+São Bento Do Una, PE
+Taboão Da Serra, SP
+Vitória, ES
+União Dos Palmares, AL
+Vilhena, RO
+Boa Vista, RR
+Valinhos, SP
+Palmares, PE
+Trairi, CE
+Campo Belo, MG
+Surubim, PE
+Vinhedo, SP
+Bertioga, SP
+Juiz De Fora, MG
+São Vicente, SP
+Cruzeiro, SP
+Suzano, SP
+Surubim, PE
+João Monlevade, MG
+Santa Cruz Do Capibaribe, PE
+Olímpia, SP
+Taboão Da Serra, SP
+União Dos Palmares, AL
+Pacatuba, CE
+Maranguape, CE
+Alagoinhas, BA
+Pindamonhangaba, SP
+Bragança Paulista, SP
+Vinhedo, SP
+Balsas, MA
+Rio Bonito, RJ
+União Dos Palmares, AL
+Timon, MA
+Várzea Grande, MT
+Volta Redonda, RJ
+Palmeira Dos Índios, AL
+Vinhedo, SP
+Mococa, SP
+Rio Bonito, RJ
+Taboão Da Serra, SP
+Caraguatatuba, SP
+Taquaritinga, SP
+Viçosa, MG
+Sorocaba, SP
+Taquara, RS
+Praia Grande, SP
+Três Rios, RJ
